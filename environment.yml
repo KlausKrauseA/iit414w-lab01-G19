@@ -1,0 +1,16 @@
+name: iit414w-lab01
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter
+  - notebook
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - pip
+  - pip:
+      - jupyterlab
