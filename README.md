@@ -29,7 +29,7 @@ conda activate iit414w-lab01
 jupyter notebook
 ```
 
-Open the notebook(s) in the `notebooks/` folder and run all cells from top to bottom (**Kernel → Restart & Run All**).
+Open `eda.ipynb` and `baseline.ipynb` from the repository root and run all cells top to bottom (**Kernel → Restart & Run All**).
 
 ---
 
